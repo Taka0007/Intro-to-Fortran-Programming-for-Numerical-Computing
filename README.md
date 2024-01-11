@@ -1,2 +1,1 @@
-# Introduction-to-Fortran-90-95-Programming-for-Numerical-Computing
-Introduction to Fortran 90/95 Programming for Numerical Computingの実装レポジトリ
+数値計算のためのFortran90/95 プログラミング入門の実装レポジトリ
