@@ -1,3 +1,6 @@
+! <script async src="https://www.mycompiler.io/static/js/embedv2.js#id:KybPDWDfP76"></script>
+! https://www.mycompiler.io/view/KybPDWDfP76
+
 Program ex1_2
     Implicit None
     Integer i,ans1,ans2,ans3
